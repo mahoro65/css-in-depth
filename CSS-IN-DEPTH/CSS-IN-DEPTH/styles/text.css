@@ -1,0 +1,24 @@
+.left-align{
+    text-align: left;
+}
+.right-align{
+    text-align: right;
+    text-decoration: underline;
+    
+}
+.center{
+    text-align: center;
+    text-decoration: overline;
+    text-indent: 13%;
+    text-shadow: 3px 3px;
+}
+.justified{
+    text-align: justify;
+    text-decoration: line-through;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
